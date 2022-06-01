@@ -1,4 +1,4 @@
-# Decompile by Mardis (Younis John)
+# Decompile by (Younis John)
 # Time Succes decompile : 2022-06-01 17:25:45.530992
  #!/usr/bin/python
  # uncompyle6 version 3.7.4
